@@ -1,0 +1,10 @@
+name: FDCE
+title: Functional Data Consistency Explorer
+username:
+account: lccl
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3428435
+bundleId: 4413278
+url: https://lccl.shinyapps.io/FDCE/
+when: 1617136013.33575
