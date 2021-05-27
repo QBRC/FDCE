@@ -1,4 +1,4 @@
-# Functional Dataset Consistency Explorer (FDCE)
+# Functional Data Consistency Explorer (FDCE)
 
 Many high-throughput screening studies have been carried out in cancer cell lines to identify therapeutic agents and targets. Existing consistency assessment studies only examined two datasets at a time, with conclusions based on a subset of carefully selected features rather than considering global consistency of all the data. However, poor concordance can still be observed for a large part of the data even when selected features are highly consistent.
 
