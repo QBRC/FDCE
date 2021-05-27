@@ -3,6 +3,5 @@ Many high-throughput screening studies have been carried out in cancer cell line
 
 We assembled nine compound screening datasets and three functional genomics datasets, and derived direct measures of consistency as well as indirect measures of consistency based on association between functional data and copy number-adjusted gene expression data. These results have been integrated into a web application – the Functional Data Consistency Explorer (FDCE), to allow users to make queries and generate interactive visualizations so that functional data consistency can be assessed for individual features of interest.
 
-This directory contains source codes used to construct shiny app at
-https://lccl.shinyapps.io/FDCE/
+This directory contains source codes used to construct shiny app at https://lccl.shinyapps.io/FDCE/.
 Input data files can be found under https://doi.org/10.5061/dryad.95x69p8kq.
